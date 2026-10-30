@@ -1,4 +1,6 @@
-![DualVlog](assets/dualvlog-hero.png)
+![DualVlog](assets/premium-cover.svg)
+
+<p align="center"><a href="https://apps.apple.com/app/id6796005586"><img src="https://raw.githubusercontent.com/ardaaozen/ardaaozen/01c1593/assets/badges/app-store-tr.png" alt="App Store'dan indir" height="54"></a></p>
 
 <h1 align="center">DualVlog</h1>
 
@@ -8,7 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://apps.apple.com/us/app/dualvlog/id6796005586"><img alt="App Store" src="https://img.shields.io/badge/App_Store-Download-0D96F6?logo=apple&logoColor=white"></a>
   <img alt="Platform" src="https://img.shields.io/badge/Platform-iPhone-111111?logo=apple&logoColor=white">
   <img alt="Category" src="https://img.shields.io/badge/Category-Photo%20%26%20Video-7C3AED">
   <img alt="Languages" src="https://img.shields.io/badge/Languages-44-06B6D4">
